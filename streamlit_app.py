@@ -104,4 +104,4 @@ with tab_est:
     render_estrategica(df_filtrado)
 
 with tab_sobre:
-    render_sobre() # Esta página não precisa receber os dados
+    render_sobre()
